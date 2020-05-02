@@ -1,0 +1,14 @@
+.Toolbar{
+    background-color: #282c34;
+    height: 500px;
+    width: 300px;
+    margin: 50px;
+  }
+  
+  .Canvas-Wrapper {
+    display: flex;
+    padding: 50px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
